@@ -1,0 +1,4 @@
+Host 13.159.90.241
+  HostName 13.159.90.241
+  User ubuntu
+  IdentityFile "C:/Users/HP/.ssh/omnipotent-key.pem"
