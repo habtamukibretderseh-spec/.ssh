@@ -1,4 +1,4 @@
-Host 13.159.90.241
+Host mariam-bot
   HostName 13.159.90.241
   User ubuntu
-  IdentityFile "C:/Users/HP/.ssh/omnipotent-key.pem"
+  IdentityFile /workspaces/.ssh/id_rsa
